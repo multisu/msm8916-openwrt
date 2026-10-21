@@ -7,7 +7,7 @@ on:
         description: 'Target device (all = build all devices)'
         required: false
         type: choice
-        default: all
+        default: uz801
         options:
           - all
           - uz801
